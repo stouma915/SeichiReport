@@ -1,0 +1,17 @@
+[
+{
+  "modid": "seichireport",
+  "name": "SeichiReport",
+  "description": "ギガンティック☆整地鯖での通報を簡単にするMod",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "https://www.stouma915.net/seichireport/",
+  "updateUrl": "",
+  "authors": ["stouma915"],
+  "credits": "ギガンティック☆整地鯖の通報フォームの文章を一部引用しました。",
+  "logoFile": "",
+  "screenshots": [],
+  "parent":"",
+  "dependencies": []
+}
+]
